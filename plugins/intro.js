@@ -45,20 +45,20 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Suhail-Md' // Source URL
-const number = '923184474176'
-var name = ' Suhail Tech'
+var surl = 'https://www.instagram.com/anikaitchowdhury?igsh=MXQwenFnMjAwd3Z6bw==' // Source URL
+const number = '916296940383'
+var name = ' 𝑰𝒔𝒏❜𝒕 𝑨𝒏𝒊𝒌𝒂𝒊𝒕'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
-│ Place       : ʟαнᴏʀᴇ ᴘᴋ
-│ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
-│ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+│ Name      : 𝑰𝒔𝒏❜𝒕 𝑨𝒏𝒊𝒌𝒂𝒊𝒕
+│ Place       : 𝒌𝒐𝒍𝒌𝒂𝒕𝒂
+│ Gender    :  𝒎𝒂𝒍𝒆
+│ Age          : 18
+│ Phone     : wa.me/916296940383
+│ Youtube   : 
+│ Status     : 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑨𝒗𝒂𝒊𝒍𝒂𝒃𝒍𝒆
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 
